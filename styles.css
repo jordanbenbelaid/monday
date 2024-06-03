@@ -8,14 +8,23 @@ h1          {
     color: blue;
 }
 
-footer      {
-    color: grey;
+h2          {
+    color: magenta;
+}
+
+h3          {
+    color: maroon;
 }
 
 h4          {
     color: darkorchid;
 }
 
+footer      {
+    color: grey;
+}
+
 li          {
-    color: rebeccapurple;
+    color: green;
+
 }
